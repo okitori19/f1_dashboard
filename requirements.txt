@@ -1,0 +1,7 @@
+requests==2.31.0
+pandas==2.1.4 
+# seaborn==0.12.2
+matplotlib==3.8.0
+numpy==1.26.1
+# scipy
+fastf1==3.8.3

@@ -25,3 +25,8 @@ Raw F1 telemetry provides sensor streams without explicit lap boundaries or BI-f
 - **Visualization:** Tableau Desktop / Tableau Public
 
 ---
+
+## 🙏 Acknowledgements & Data Sources
+
+- Data provided by the **[FastF1 Python Library](https://docs.fastf1.dev/)** and [OpenF1](https://openf1.org/).
+- Formula 1 telemetry and timing data are sourced from FIA Live Timing endpoints.
